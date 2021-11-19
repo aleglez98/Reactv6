@@ -1,0 +1,7 @@
+node_modules/
+workspace.code-workspace
+.cache
+dist/
+.env
+.DS_Store
+.vscode/
